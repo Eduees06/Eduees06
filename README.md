@@ -11,7 +11,7 @@
 ### 🛠️ Tecnologias e Ferramentas  
 
 <p align="left">
-  <img align = "right" alt= "gif-prog" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXhyamw3aTl5djJhcTRqYjMzMGI5c25vMHMybWU2NDJ1ZzFqMzZ5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="15%" />
+  <img align = "right" alt= "gif-prog" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXhyamw3aTl5djJhcTRqYjMzMGI5c25vMHMybWU2NDJ1ZzFqMzZ5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="20%" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
