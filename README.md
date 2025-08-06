@@ -1,8 +1,8 @@
 ## Ola! Eu sou o Eduardo Emilio 👋
 
-- 💻 Aberto a oportunidades na área de Tecnologia
-- 🎓 Último período de Ciência da Computação na Universidade Estadual de Maringá (UEM).
-- 📚 Atualmente estudando Java e Node.js.
+- 💻 Estagiario de Desenvolvimento de Software na empresa ArBrain
+- 🎓 Ciência da Computação na Universidade Estadual de Maringá (UEM).
+- 📚 Atualmente estudando C#.
 
 [![Eduees06's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduees06&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduees06&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
