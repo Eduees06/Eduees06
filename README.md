@@ -1,6 +1,6 @@
 ## Ola! Eu sou o Eduardo Emilio 👋
 
-- 💻 Estagiario de Desenvolvimento de Software na empresa ArBrain
+- 💻 Desenvolvedor de Software na empresa ArBrain
 - 🎓 Ciência da Computação na Universidade Estadual de Maringá (UEM).
 - 📚 Atualmente estudando C#.
 
